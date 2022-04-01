@@ -6,7 +6,7 @@
 
 ### Hey devs <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;">
 
-👨🏼‍💻I'm dev with 3 years of experience in developing full-stack web applications and hybrid
+👨🏼‍💻I'm Software Engineer - Full Stack Web Developer with 3 years of experience in developing full-stack web applications and hybrid
 mobile applications always looking for writing clean, readable, maintainable, and testable code using
 modern software technologies and trying to be up to date with the latest technologies, seeking a
 challenging position where my technical and personal skills can be applied to achieve the company’s
