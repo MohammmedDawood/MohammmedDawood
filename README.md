@@ -39,12 +39,16 @@ const Mohammed_Dawood = {
 
 ## GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammmeddawood&show_icons=true&locale=en&layout=compact" alt="mohammmeddawood" /></p>
+<div align="center">
+<div ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammmeddawood&show_icons=true&locale=en&layout=compact" alt="mohammmeddawood" /></div>
+</br>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammmeddawood&show_icons=true&locale=en" alt="mohammmeddawood" /></div>
+</br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammmeddawood&show_icons=true&locale=en" alt="mohammmeddawood" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammmeddawood&" alt="mohammmeddawood" /></div>
+</br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammmeddawood&" alt="mohammmeddawood" /></p>
-
+</div>
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 ## GitHub Trophy
