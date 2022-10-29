@@ -12,7 +12,7 @@ goals.
 const Mohammed_Dawood = {
  name :"Mohammed Dawood",
  acknowledgements :"Software Development",
- languages :["JavaScript", "Python", "JavaScript", "NodeJs"]
+ languages :["JavaScript", "Python", "TypeScript", "NodeJs"]
 }
 ```
 
