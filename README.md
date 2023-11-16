@@ -49,6 +49,8 @@ const Mohammed_Dawood = {
 </br>
 
 </div>
+
+![Profile Visits](https://komarev.com/ghpvc/?username=MohammmedDawood) 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 ## GitHub Trophy
