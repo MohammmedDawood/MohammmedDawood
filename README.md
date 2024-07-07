@@ -2,7 +2,7 @@
 
 ## I'm Mohammed Dawood - @MohammmedDawood
 
-👨🏼‍💻I'm Software Engineer - Full Stack Web Developer with 3 years of experience in developing full-stack web applications and hybrid
+👨🏼‍💻I'm Software Engineer - Full Stack Web Developer with 6 years of experience in developing full-stack web applications and hybrid
 mobile applications always looking for writing clean, readable, maintainable, and testable code using
 modern software technologies and trying to be up to date with the latest technologies, seeking a
 challenging position where my technical and personal skills can be applied to achieve the company’s
